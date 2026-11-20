@@ -13,7 +13,7 @@
   "minimumReleaseAge": "3 days",
   "packageRules": [
     {
-      "matchPackageNames": ["ruby", "ruby/serup-ruby"],
+      "matchPackageNames": ["ruby", "ruby/setup-ruby"],
       "groupName": "Ruby version",
       "minimumReleaseAge": "0 days"
     },
